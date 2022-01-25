@@ -1,4 +1,5 @@
-# I created task planners that takes tasks as input and returns a list of tasks in order to be completed based on their priority value. 
+# Task planner
+I created task planners that takes tasks as input and returns a list of tasks in order to be completed based on their priority value. 
 I store information using Class Task, which allows creating attributes about the sub-tasks. 
 The attributes include task ID, task descriptions, duration in minutes, dependencies, and strict starting time. 
 Dependencies refer to the tasks that need to be done before executing a task. Strict starting time exists when a task has to start at the time. 
